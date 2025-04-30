@@ -1,0 +1,8 @@
+﻿模型名称,版本,模型 ID（Model ID）,模型领域,"最大上下文长度
+(token)","可配置最大输出长度
+(token)",模型默认限流,"免费额度
+（token）","定价
+(元/千 token)"
+moonshot-v1-8k,v1,moonshot-v1-8k 与模型名称一致。,通用任务,8k,4k,60 RPM 60000 TPM,"500,000",定价详情
+moonshot-v1-32k,v1,moonshot-v1-32k 与模型名称一致。,通用任务,32k,4k,10 RPM 10000 TPM,"500,000",定价详情
+moonshot-v1-128k,v1,moonshot-v1-128k 与模型名称一致。,通用任务,128k,4k,10 RPM 10000 TPM,"500,000",定价详情

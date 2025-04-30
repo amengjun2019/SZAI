@@ -1,0 +1,14 @@
+﻿模型名称,版本,模型 ID（Model ID）,模型领域,"最大上下文长度
+(token)","可配置最大输出长度
+(token)",模型默认限流,"免费额度
+（token）","定价
+(元/千 token)"
+doubao-pro-32k,241215,doubao-pro-32k-241215,通用任务,32k,4k,15000 RPM 1200000 TPM,"500,000",定价详情
+doubao-pro-32k,240828,doubao-pro-32k-240828,通用任务,32k,4k,定价详情
+doubao-pro-32k,functioncall-241028,doubao-pro-32k-functioncall-241028,工具调用,32k,4k,定价详情
+doubao-pro-32k,functioncall-preview,doubao-pro-32k-functioncall-preview,工具调用,32k,4k,定价详情
+doubao-pro-32k,browsing-241115,doubao-pro-32k-browsing-241115,联网总结 默认不联网，需要结合联网插件 数据结构使用。,32k,4k,
+doubao-pro-32k,browsing-240828,doubao-pro-32k-browsing-240828,联网总结 默认不联网，需要结合联网插件 数据结构使用。,32k,4k,定价详情
+doubao-pro-32k,character-241215,doubao-pro-32k-character-241215,角色扮演,32k,4k,定价详情
+doubao-pro-32k,character-240828,doubao-pro-32k-character-240828,角色扮演,32k,4k,定价详情
+doubao-pro-256k,241115,doubao-pro-256k-241115,超长文本,256k,4k,2000 RPM 400000 TPM,"500,000",定价详情

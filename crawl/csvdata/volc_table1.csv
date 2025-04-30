@@ -1,0 +1,10 @@
+﻿模型名称,版本,模型 ID（Model ID）,模型领域,"最大上下文长度
+(token)","最大输入长度
+(token)","可配置最大输出长度
+(token)","思维链最大输出长度
+(token)",模型默认限流,"免费额度
+（token）","定价
+(元/千 token)"
+doubao-1.5-thinking-pro,250415,doubao-1-5-thinking-pro-250415,文本+深度思考,128k,96k,16k 默认 4k,32k,30000 RPM 5000000 TPM,"500,000",深度思考模型
+doubao-1.5-thinking-pro,m-250415,doubao-1-5-thinking-pro-m-250415,图文+深度思考,128k,96k,16k 默认 4k,32k,30000 RPM 5000000 TPM,"500,000",深度思考模型
+doubao-1.5-vision-pro,thinking-250428,doubao-1.5-vision-pro-thinking-250428,图片理解 视频理解需工单申请 深度思考,128k,96k,16k 默认 4k,32k,30000 RPM 5000000 TPM,"500,000",视觉理解大模型

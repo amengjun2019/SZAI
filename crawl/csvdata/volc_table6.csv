@@ -1,0 +1,7 @@
+﻿模型名称,版本,模型 ID（Model ID）,模型能力,"最大上下文长度
+(token)","可配置最大输出长度
+(token)",模型默认限流,"免费额度
+（token）","定价
+(元/千 token)"
+deepseek-v3,250324新版,deepseek-v3-250324,通用任务 支持 Function Calling 前缀缓存 批量推理,128k,16k 默认 4k,30000 RPM 5000000 TPM,"500,000",按 token 使用量付费（后付费）
+deepseek-v3,241226将下线,deepseek-v3-241226,通用任务,64k,16k 默认 4k,30000 RPM 5000000 TPM,"500,000",按 token 使用量付费（后付费）
