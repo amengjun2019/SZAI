@@ -25,18 +25,19 @@
 GitHub Copilot
 以下是生成的 README.md 文件内容：
 
-project/ 
-  ├── csvdata/ # 存放爬取的 CSV 数据 
-  ├── scheduled.py # 主脚本，调度爬虫任务 
-  ├── selenium_silicon.py # 爬取 SiliconFlow 的脚本 
-  ├── selenium_volcengine_model.py # 爬取 VolcEngine 的脚本 
-  ├── update_db.py # 更新数据库的脚本 
-  ├── update_models.py # 更新模型的脚本 
-  ├── requirements.txt # Python 依赖文件 
-  ├── Dockerfile # Dockerfile 文件 
-  ├── docker-compose.yml # Docker Compose 文件 
-  └── README.md # 项目说明文件
-
+```
+project/
+├── csvdata/                  # 存放爬取的 CSV 数据
+├── scheduled.py              # 主脚本，调度爬虫任务
+├── selenium_silicon.py       # 爬取 SiliconFlow 的脚本
+├── selenium_volcengine_model.py # 爬取 VolcEngine 的脚本
+├── update_db.py              # 更新数据库的脚本
+├── update_models.py          # 更新模型的脚本
+├── requirements.txt          # Python 依赖文件
+├── Dockerfile                # Dockerfile 文件
+├── docker-compose.yml        # Docker Compose 文件
+└── README.md                 # 项目说明文件
+```
 
 ---
 
